@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	219764848	PaddleHit			\Default Work Unit\PaddleHit	
+	1922558396	LoungeMusic			\Default Work Unit\LoungeMusic	
+	2799491916	FloorHit			\Default Work Unit\FloorHit	
+	3480710895	BrickHit			\Default Work Unit\BrickHit	
+	3950429679	PowerUp			\Default Work Unit\PowerUp	
+	3961855540	WallHit			\Default Work Unit\WallHit	
+	4158285989	GameOver			\Default Work Unit\GameOver	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	111867713	jingles_NES10	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES10		74560
+	262469344	jingles_NES03	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES03		110400
+	267935147	jingles_NES00	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES00_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES00		311104
+	348729710	jingles_NES14	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES14		69440
+	803712767	jingles_NES16	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES16_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES16		94528
+	1026814041	jingles_NES15	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\jingles_NES15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\jingles_NES15		76608
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	75778174	Kevin MacLeod   8bit Dungeon Level	C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\SFX\Kevin MacLeod   8bit Dungeon Level_0A288869.wem	75778174.wem	\Actor-Mixer Hierarchy\Default Work Unit\Kevin MacLeod   8bit Dungeon Level	
+

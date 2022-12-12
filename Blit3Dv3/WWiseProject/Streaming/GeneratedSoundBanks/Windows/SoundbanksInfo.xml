@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\dlope\Desktop\NBCC\Second Term\Sound Design Darren\Streaming_Music\Blit3Dv3\WWiseProject\Streaming\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="75778174" Language="SFX">
+			<ShortName>Kevin MacLeod   8bit Dungeon Level.wav</ShortName>
+			<Path>SFX\Kevin MacLeod   8bit Dungeon Level_0A288869.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2880737896" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Mainbank</ObjectPath>
+			<ShortName>Mainbank</ShortName>
+			<Path>Mainbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3480710895" Name="BrickHit" ObjectPath="\Events\Default Work Unit\BrickHit"/>
+				<Event Id="2799491916" Name="FloorHit" ObjectPath="\Events\Default Work Unit\FloorHit"/>
+				<Event Id="4158285989" Name="GameOver" ObjectPath="\Events\Default Work Unit\GameOver"/>
+				<Event Id="1922558396" Name="LoungeMusic" ObjectPath="\Events\Default Work Unit\LoungeMusic"/>
+				<Event Id="219764848" Name="PaddleHit" ObjectPath="\Events\Default Work Unit\PaddleHit"/>
+				<Event Id="3950429679" Name="PowerUp" ObjectPath="\Events\Default Work Unit\PowerUp"/>
+				<Event Id="3961855540" Name="WallHit" ObjectPath="\Events\Default Work Unit\WallHit"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="75778174"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="111867713" Language="SFX">
+					<ShortName>jingles_NES10.wav</ShortName>
+					<Path>SFX\jingles_NES10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="262469344" Language="SFX">
+					<ShortName>jingles_NES03.wav</ShortName>
+					<Path>SFX\jingles_NES03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="267935147" Language="SFX">
+					<ShortName>jingles_NES00.wav</ShortName>
+					<Path>SFX\jingles_NES00_CC87FBFB.wem</Path>
+				</File>
+				<File Id="348729710" Language="SFX">
+					<ShortName>jingles_NES14.wav</ShortName>
+					<Path>SFX\jingles_NES14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="803712767" Language="SFX">
+					<ShortName>jingles_NES16.wav</ShortName>
+					<Path>SFX\jingles_NES16_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1026814041" Language="SFX">
+					<ShortName>jingles_NES15.wav</ShortName>
+					<Path>SFX\jingles_NES15_CC87FBFB.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

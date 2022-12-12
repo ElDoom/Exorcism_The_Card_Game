@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8494502-5616-4534-95E1-C39446ABAF75}" SchemaVersion="75">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C8494502-5616-4534-95E1-C39446ABAF75}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Lounge13" ID="{2D6F9FA0-229B-46FB-A5D5-BD459F241F73}" ShortID="430381253" Type="SoundFX">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C5A31C8C-6FE7-489A-96D2-27717A6C1F00}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{21C1AB5A-3D54-4A77-BBB8-9B47827C6993}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Lounge13" ID="{4115533A-7ACB-4B4A-AFC0-21F1F993A74F}" ShortID="349029434">
+							<Language>SFX</Language>
+							<AudioFile>Lounge13.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Lounge13" ID="{4115533A-7ACB-4B4A-AFC0-21F1F993A74F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

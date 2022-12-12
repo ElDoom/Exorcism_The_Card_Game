@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{17952246-967E-45C3-ABCE-4176F467BC22}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{17952246-967E-45C3-ABCE-4176F467BC22}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="LoungeMusic" ID="{0AFE6CB8-E1B4-46E4-9B3E-0869246BC23A}">
+					<ChildrenList>
+						<Action Name="" ID="{89B1E77A-93E4-452C-9EFA-92611E88B9E4}" ShortID="24309638">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kevin MacLeod   8bit Dungeon Level" ID="{C2EB9BFD-0822-465B-95F3-5B55836EEAE5}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PaddleHit" ID="{14ECA7F8-815E-461A-A145-99C47B8FBE53}">
+					<ChildrenList>
+						<Action Name="" ID="{4C33A6F0-7228-4777-AA7C-86A30BFF7EB3}" ShortID="499035528">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES14" ID="{32CAFF31-BC64-45D9-B6A5-CF915D7BEEA8}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="WallHit" ID="{D510E2C1-58FC-4298-ADEE-70E0838A67AD}">
+					<ChildrenList>
+						<Action Name="" ID="{E9CA0D29-DAE2-4CD6-91B1-B1DB5EDD1D98}" ShortID="1002749585">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES15" ID="{07339D5B-16D7-41C4-94A7-47F85EE3B3F6}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FloorHit" ID="{3028FDF5-56F6-4A9B-9389-A9B1BAED768A}">
+					<ChildrenList>
+						<Action Name="" ID="{60F0CFD9-6B9E-4F29-973B-930B4CA2199F}" ShortID="30839136">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES16" ID="{BEAB1EE3-8343-447A-9E7C-CF3B4402A872}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BrickHit" ID="{86289729-3172-4DF0-BFB4-18CDBEC8F363}">
+					<ChildrenList>
+						<Action Name="" ID="{ACA9F920-19DC-48B8-8C1F-F921B448D8FD}" ShortID="409736498">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES10" ID="{F1974B3D-DC69-4B09-A9E0-8DD655135F60}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PowerUp" ID="{E75C0550-3071-44A7-AC44-489B1E344EE9}">
+					<ChildrenList>
+						<Action Name="" ID="{785B466F-1066-489A-BD08-CC0CA169A7CE}" ShortID="372359351">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES03" ID="{DEDF3606-047A-4254-A6E1-D8818BD553A8}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GameOver" ID="{41DC396F-C837-423F-BF5C-2B4A646FCFA5}">
+					<ChildrenList>
+						<Action Name="" ID="{B93E0EF6-209B-4482-8918-DE7CBD052D4A}" ShortID="418175898">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jingles_NES00" ID="{50B489BC-B2C5-4669-A5A8-FCD8BB67E339}" WorkUnitID="{C8494502-5616-4534-95E1-C39446ABAF75}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

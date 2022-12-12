@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5DE11D8E-DFFC-4AFF-9B0E-C018617BD95C}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{5DE11D8E-DFFC-4AFF-9B0E-C018617BD95C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Mainbank" ID="{E599097E-1D41-4DEC-BCF6-DCFDFECA785E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GameOver" ID="{41DC396F-C837-423F-BF5C-2B4A646FCFA5}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="WallHit" ID="{D510E2C1-58FC-4298-ADEE-70E0838A67AD}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="PowerUp" ID="{E75C0550-3071-44A7-AC44-489B1E344EE9}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="PaddleHit" ID="{14ECA7F8-815E-461A-A145-99C47B8FBE53}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="LoungeMusic" ID="{0AFE6CB8-E1B4-46E4-9B3E-0869246BC23A}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FloorHit" ID="{3028FDF5-56F6-4A9B-9389-A9B1BAED768A}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BrickHit" ID="{86289729-3172-4DF0-BFB4-18CDBEC8F363}" WorkUnitID="{17952246-967E-45C3-ABCE-4176F467BC22}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
